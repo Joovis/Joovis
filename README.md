@@ -23,7 +23,7 @@
 
             <script>
                 function test(){
-                    alert("I am so sorry for saying this Azanin, but I love you")
+                    alert("I am so sorry for saying this Azanin, but I have a feeling on you")
                 }
             </script>
         </table>
